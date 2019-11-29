@@ -12,3 +12,10 @@ body {
     -webkit-font-smooting: antialiased !important;
 }
 
+
+header#main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
